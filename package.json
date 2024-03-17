@@ -1,0 +1,15 @@
+{
+  "name": "nginx_reverse_proxy_app",
+  "version": "1.0.0",
+  "description": "repo containing code to my article on setting up nginx as a reverse proxy using docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "alahira jeffrey",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
