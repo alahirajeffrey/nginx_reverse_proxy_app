@@ -1,6 +1,6 @@
-// use the official nginx image
+## use the official nginx image
 FROM nginx
 
-// copy configuration file
+## copy configuration file
 COPY nginx.conf /etc/nginx/nginx.conf
 
